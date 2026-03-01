@@ -1,0 +1,5 @@
+streamlit
+pageindex
+google-generativeai
+requests
+python-dotenv
